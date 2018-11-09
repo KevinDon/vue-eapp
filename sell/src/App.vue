@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div>Welcome My Sell</div>
     <!--<img src="./assets/logo.png">-->
     <router-view/>
   </div>
